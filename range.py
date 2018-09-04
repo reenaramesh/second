@@ -25,7 +25,7 @@ print("Reverse of the number:",rev) """
 
 
 #reverse string
-a = "welcome"
+a = "reena"
 b = ""
 n = len(a)
 while n>0:
